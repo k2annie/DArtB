@@ -1,1 +1,1 @@
-# DArtB
+# DArtB winter SQL study
